@@ -1,0 +1,6 @@
+jupyter
+jupyter_contrib_nbextensions
+matplotlib
+nbconvert
+numpy
+pandas

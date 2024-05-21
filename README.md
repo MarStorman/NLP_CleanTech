@@ -69,6 +69,10 @@ If the GitHub preview doesn't work, you can view the notebooks using [nbviewer](
     ```bash
     cd NLP_CleanTech
     ```
+3. **Install required basic packages**:
+    ```bash
+    pip install -r requirements.txt
+    ```
 4. **Open the Jupyter notebooks** to explore and run the analyses:
     ```bash
     jupyter notebook
